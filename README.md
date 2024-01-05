@@ -7,6 +7,8 @@ Projet 4 de la formation de data analyst de OpenClassrooms
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 
 <img width="614" alt="Logo_fao" src="https://github.com/AlexisDlge/R-alisez-une-tude-de-sant-publique/assets/152527939/9b4702f5-f23e-4a7b-bb5b-2f62861c024c">
+![413282205_1400668294219196_4726672149913060113_n](https://github.com/AlexisDlge/Realisez-une-etude-de-sante-publique/assets/152527939/115fc2b8-4783-4892-b87b-9a693d9fca91)
+
 
 Food and Agriculture Organization of the United Nations Food and Agriculture Organization of the United Nations
 
