@@ -90,11 +90,25 @@ Dès votre arrivée, vous trouvez un mail de Marc dans votre boîte mail :
 
 Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prenom”, tous les livrables du projet comme suit : Nom_Prenom_n° du livrable_nom du livrable__date de démarrage du projet. Cela donnera :
 
-    Nom_Prenom_1_notebook_mmaaaa ;
-    Nom_Prenom_2_notebook-pdf_mmaaaa ;
-    Nom_Prenom_3_presentation_mmaaaa.
+* Nom_Prenom_1_notebook_mmaaaa ;
+* Nom_Prenom_2_notebook-pdf_mmaaaa ;
+* Nom_Prenom_3_presentation_mmaaaa.
 
 Par exemple, le premier livrable peut être nommé comme suit : Dupont_Jean_1_notebook_012023
 
-
+<img width="614" alt="IMG_Soutenance" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/a1a8bf0e-898d-4fa4-808b-091d870eb595">
     
+Durant la présentation orale, l’évaluateur interprétera le rôle de Marc, le responsable de l’équipe. La soutenance est structurée de la manière suivante :
+
+* Présentation des résultats (15 minutes).
+  - Vous présenterez votre notebook et votre support de présentation répondant aux questions. 
+
+* Discussion (10 minutes) :
+  - L’évaluateur jouera le rôle de Marc. Il vous challengera sur vos choix, et vérifiera vos connaissances sur certaines fonctions en R ou Python, notamment : 
+    - la propreté et l’organisation du code :
+    - les opérations d’algèbre relationnelle ( jointure), la restriction (.loc et/ou sélection de colonnes) et l’agrégation 
+  - Il vous demandera si le RGPD est respecté dans les data set nettoyés
+
+* Debrief (5 minutes)
+    
+À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Marc pour vous permettre de débriefer ensemble.
