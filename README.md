@@ -1,7 +1,7 @@
 # Realisez-une-etude-de-sante-publique
 Projet 4 de la formation de data analyst de OpenClassrooms
 
-**Scénario**
+<img width="614" alt="IMG_Scenario" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/6c949932-3da9-4faa-a408-3d3da4ec7247">
 
 
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
@@ -79,3 +79,22 @@ Dès votre arrivée, vous trouvez un mail de Marc dans votre boîte mail :
 
     VOUS
     Merci, à bientôt !
+
+<img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
+
+* Le notebook R Markdown ou Jupyter (en Python) vous ayant permis de calculer/trouver l’ensemble des résultats demandés.
+* Le notebook R Markdown ou Jupyter (en Python) en version PDF.
+* Le support de présentation contenant toutes les informations demandées en version PPT ou Gslides.
+
+
+
+Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prenom”, tous les livrables du projet comme suit : Nom_Prenom_n° du livrable_nom du livrable__date de démarrage du projet. Cela donnera :
+
+    Nom_Prenom_1_notebook_mmaaaa ;
+    Nom_Prenom_2_notebook-pdf_mmaaaa ;
+    Nom_Prenom_3_presentation_mmaaaa.
+
+Par exemple, le premier livrable peut être nommé comme suit : Dupont_Jean_1_notebook_012023
+
+
+    
